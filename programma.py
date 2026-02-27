@@ -1,2 +1,5 @@
 vards=input("Ievadi savu vārdu: ")
 print("Sveiks", vards)
+a = int(input("Ievadi pirmo skaitli: "))
+b = int(input("Ievadi otro skaitli: "))
+print("Summa:", a + b)
